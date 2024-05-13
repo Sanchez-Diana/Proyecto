@@ -31,6 +31,7 @@ img{
     margin-top: 3%;
     width: 90%;
     background-color: rgb(139, 230, 236);
+    border: 5px solid black;
 }
 
 .subcaja{
